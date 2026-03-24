@@ -1,5 +1,8 @@
 # patch-pilot
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Turn messy git branches into clean, reviewable patch stacks.**
 
 One command to split a giant branch into atomic commits grouped by concern, generate changelogs, and export PR descriptions your reviewers will actually read.
